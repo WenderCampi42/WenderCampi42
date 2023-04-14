@@ -1,4 +1,4 @@
-### Opa, sou o Wender, muito prazer!
+### Olá, sou o Wender, muito prazer!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
